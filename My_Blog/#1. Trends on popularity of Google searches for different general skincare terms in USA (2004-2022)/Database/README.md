@@ -1,6 +1,4 @@
-I looked at different trends for all the key words. 
- 
-In general, you will find the following documents in all of the folders respectively: 
+In general, you will find the following documents in all of the folders, respectively: 
   -City 
   -Subregion
   -Multitimeline
