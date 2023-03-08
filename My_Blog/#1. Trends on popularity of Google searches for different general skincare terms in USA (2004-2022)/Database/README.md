@@ -1,4 +1,4 @@
-In general, you will find the following documents in all of the folders, respectively:
+In general, you will find the following documents in all of the folders. Respectively:
 
  **1. City**: It gives the cities in which the keyword was most popular in that period of time. 
 
