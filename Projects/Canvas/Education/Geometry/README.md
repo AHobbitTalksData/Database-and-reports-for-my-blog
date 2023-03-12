@@ -1,1 +1,1 @@
-In this workshop we worked with regular geometrical shapes. 
+In this workshop we talked about regular geometrical shapes. 
