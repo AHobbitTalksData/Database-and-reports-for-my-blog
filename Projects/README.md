@@ -1,1 +1,1 @@
-I will be posting all the different projects I produce. These projects will be sorted according to the tool and task I consider most relevant, for example: *Excel/Data_validation*, *Python/numpy*, etc. 
+I will be posting all the different projects I produce. These projects will be sorted according to the tool and task I consider most relevant, for example: *Excel/Data_validation*, *Python/numpy*, etc. The topics for this projects might not be related so you will find a brief summary in every README file. 
