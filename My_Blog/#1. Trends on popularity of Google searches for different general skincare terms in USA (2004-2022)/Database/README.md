@@ -12,4 +12,4 @@ In general, you will find the following documents in all of the folders. Respect
   
 Also, the numbers that you see for each one of those documents are proportions, not the amount of searches that were made. 
 
-- The data has been cleaned and processed - 
+                                                      - The data has been cleaned and processed - 
