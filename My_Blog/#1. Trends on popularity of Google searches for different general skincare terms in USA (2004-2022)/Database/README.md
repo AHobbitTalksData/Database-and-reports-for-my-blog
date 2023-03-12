@@ -11,3 +11,5 @@ In general, you will find the following documents in all of the folders. Respect
  **5. Related Enquires**: It provides the most similar terms that were searched according to each keyword. 
   
 Also, the numbers that you see for each one of those documents are proportions, not the amount of searches that were made. 
+
+- The data has been cleaned and processed - 
