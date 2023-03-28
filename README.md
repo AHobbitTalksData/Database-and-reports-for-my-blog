@@ -1,8 +1,6 @@
 # My_Portfolio
 
-You will be able to find here all the documentation that I used for my projects such as databases that I have built, code that I have used or reports that I have created. 
-
-Any feedback is very welcome. 
+You will be able to find here all the documentation that I used for the databases that I have built, the code that I have used and the reports that I have created for the posts of my blog. 
 
 Thank you for passing by. 
 
