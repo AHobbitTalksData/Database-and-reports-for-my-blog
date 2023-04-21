@@ -4,4 +4,4 @@ The format of this directory is: I will name each subdirectory according to the 
 
 The topics for my posts will be very varied and might include topics such as the world of J.R.R. Tolkien, beauty, business analysis, music, food or any other topic I might get interested in. 
 
-The link to my blog can be found on my profile under my picture but, for simplicity, [here you have it as well:](https://jessyacunarodriguez.wixsite.com/a-hobbit-talks-data )
+The link to my blog can be found on my profile under my picture but, for simplicity, [here you have it as well.](https://jessyacunarodriguez.wixsite.com/a-hobbit-talks-data )
